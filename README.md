@@ -12,3 +12,5 @@ Here are just a couple ideas as to what you could do with the data:
 * Regression: Can you predict the rating of the drug based on the review?
 * Sentiment analysis: What elements of a review make it more helpful to others? Which patients tend to have more negative reviews? Can you determine if a review is positive, neutral, or negative?
 * Data visualizations: What kind of drugs are there? What sorts of conditions do these patients have?
+
+DataSet: https://archive.ics.uci.edu/ml/machine-learning-databases/00462/
